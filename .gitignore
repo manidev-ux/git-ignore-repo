@@ -1,6 +1,8 @@
-
 fun.css
+app.css
 file.txt
 index.html
 *.js
 temp/
+!fun.js
+
