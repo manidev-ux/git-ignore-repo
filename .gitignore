@@ -2,3 +2,5 @@
 fun.css
 file.txt
 index.html
+*.js
+temp/
